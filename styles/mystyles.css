@@ -1,0 +1,54 @@
+
+#family {
+    width: 50%;
+    border: black 2px solid;
+}
+#Dodger {
+    width: 50%;
+    height: 25%;
+    border: black 2px solid;
+}
+#me {
+    width:50%;
+}
+h2{
+    color:rgb(144, 181, 204);
+}
+.subheading{
+    color:rgb(31, 26, 26);
+}
+h3 {
+    font-family:cursive
+}
+.subheading{
+    font-family: cursive;
+}
+#resumeheading{
+    text-align: center;
+    color: lavenderblush;
+}
+.meta{
+    text-align: center;
+}
+#education{
+    text-align: left;
+    color:rgb(201, 155, 201)
+    
+}
+#fam{
+    color:rgb(32, 35, 37);
+    font-weight: bolder;
+}
+#dog{
+    color: rgb(32, 35, 37);
+    font-weight: bolder;
+}
+#work{
+    color: rgb(201, 155, 201)
+}
+h6{
+    font-style: italic;
+}
+#skills{
+    color: rgb(201, 155, 201);
+}
